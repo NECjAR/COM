@@ -34,7 +34,7 @@ _For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com
 ## Release History
 
 * 2011.11.11
-    * ADD: Our ambition is unlimited.
+    * Our ambition is unlimited.
 
 ## Meta
 
