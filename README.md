@@ -21,7 +21,7 @@ See www.necjar.com for details.
 
 <p align="center">
   <a href="https://necjar.com">
-    <img src="https://necjar.com/j/materials/icons/icon-necjar.jpg" alt="NECjAR" width="auto" height="auto" />
+    <img src="https://necjar.com/icons/necjar.jpg" alt="NECjAR" width="auto" height="auto" />
   </a>
 </p>
 
